@@ -1,4 +1,4 @@
-# ECWDM-4031 — A/B Test Calculations: Non-Inferiority and Superiority Cases
+# A/B Test Calculations: Non-Inferiority and Superiority Cases
 
 > **Abstract.** This document explains a common interpretation mistake in A/B testing.
 > If a superiority test reaches the planned sample size but shows no statistically
